@@ -1,0 +1,21 @@
+{
+  "name": "figurinhaz",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "https://github.com/JosimarBazilio/figurinhaz#readme",
+  "bugs": {
+    "url": "https://github.com/JosimarBazilio/figurinhaz/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosimarBazilio/figurinhaz.git"
+  },
+  "license": "MIT",
+  "author": "Josimar Bazilio",
+  "scripts": {},
+  "dependencies": {
+    "next": "15.5.2",
+    "react": "19.1.1",
+    "react-dom": "19.1.1"
+  }
+}

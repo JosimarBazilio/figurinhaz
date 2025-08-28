@@ -15,7 +15,8 @@
   "scripts": {
     "lint:prettier:check": "prettier --check .",
     "lint:prettier:fix": "prettier --write .",
-    "lint:eslint:check": "next lint --dir ."
+    "lint:eslint:check": "next lint --dir .",
+    "prepare": "husky"
   },
   "dependencies": {
     "next": "15.5.2",
@@ -27,6 +28,7 @@
     "@commitlint/config-conventional": "19.8.1",
     "eslint": "9.34.0",
     "eslint-config-next": "15.5.2",
+    "husky": "9.1.7",
     "prettier": "3.6.2"
   }
 }
